@@ -1,2 +1,2 @@
 # Donations
-Stop  Child Labour
+promote  Child Labour
